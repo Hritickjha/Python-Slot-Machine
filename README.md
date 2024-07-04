@@ -26,13 +26,17 @@ To run this project, you will need:
 ## Example
 $ python main.py
 What would you like to deposit? $10
-Current balance is $10
-Press enter to play (q to quit).
-  Spinning - - 
-          You won $5!
+
+            Current balance is $10
+
+                        Press enter to play (q to quit).
+  
+                                  Spinning - - 
+         
+                                                  You won $5!
           
-                    Current balance is $15
+                                                            Current balance is $15
                     
-                              Press enter to play (q to quit).q
+                                                                            Press enter to play (q to quit).q
                               
-                                                      You left with $15
+                                                                                          You left with $15
