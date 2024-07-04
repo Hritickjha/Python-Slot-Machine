@@ -38,6 +38,8 @@ What would you like to deposit? $10
                                                             Current balance is $15
                     
                                                                             Press enter to play (q to quit).q
+                                                                                          
+                                                                                          You left with $15
     
 
 
@@ -46,4 +48,4 @@ What would you like to deposit? $10
 Don't hesitate to contact Hritick Jha at [jhahritick@gmail.com] for any inquiries.
 
                               
-                                                                                          You left with $15
+                                                                                        
