@@ -30,6 +30,6 @@ Current balance is $10
 Press enter to play (q to quit).
   Spinning - - 
           You won $5!
-          Current balance is $15
-          Press enter to play (q to quit).q
-          You left with $15
+                    Current balance is $15
+                              Press enter to play (q to quit).q
+                                                      You left with $15
